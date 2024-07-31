@@ -1,6 +1,6 @@
 <h1>✌🏻 Olá, eu sou o Giuseppe Cavalcanti.</h1>
 Estou atualmente me graduando em Ciência da computação, meu objetivo é se tornar um desenvolvedor full stack.
-<h2>Sobre mim 🧔🏻‍♂️: </h2>
+<h2>Sobre 🧔🏻‍♂️: </h2>
 
 <ul>
     <li>🧞 Apaixonado por tecnologia.</li>
